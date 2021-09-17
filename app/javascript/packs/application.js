@@ -13,4 +13,4 @@ Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
 
-require("packs/custom")
+require("packs/chess")
